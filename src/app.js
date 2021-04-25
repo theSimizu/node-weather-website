@@ -6,7 +6,6 @@ const path = require('path')
 const expressRoutes = require('./utils/express-routes')
 const expressSettings = require('./utils/express-settings')
 
-// Teste.
 const port = process.env.PORT || 666
 
 // Setup directorys path
